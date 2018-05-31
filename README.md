@@ -6,9 +6,9 @@ Cependant, Dataviz-caractere peut également fonctionner localement sur votre ma
 Si vous voulez exécuter votre instance de Dataviz-caractere localement sur votre machine, assurez-vous que les conditions suivantes sont installées. 
         +++Exigences++++
        !!!  git  Bower  !!!!
-Instructions ->>>  Cloner Dataviz-caractere à partir de la ligne de commande: $ git clone https://github.com/densitydesign/raw.git
-             ->>>  accéder au dossier racine Dataviz-caractere: $ cd !!!!
+Instructions ->>>  Cloner Dataviz-caractere à partir de la ligne de commande: $ git clone https://github.com/leuz9/Dataviz-caractere
              ->>>  installation brute côté client dépendances: $ bower install
+             ->>>  accéder au dossier racine Dataviz-caractere: $ cd !!!!
           
           Vous pouvez maintenant exécuter Dataviz-caractere à partir de votre serveur Web local. Par exemple, vous pouvez exécuter le serveur intégré de Python:        $ python -m SimpleHTTPServer 4000 
           ou pour Python 3+       $ python -m http.server 4000
